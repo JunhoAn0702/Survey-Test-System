@@ -14,6 +14,10 @@ This project is to develop of a generic survey/test taking system written in Jav
 2. Import the project into eclipse, and then run.
 3. a test.txt file is added for test purpose.
 
+## UML/Design
+
+Please see the UML diagram, UML.pdf, in this directory.
+
 ## Running the tests
 
 You can run tests by loading the test.txt file.
