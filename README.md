@@ -1,27 +1,20 @@
-# Nuclear-Waste-Disposal-Robot: Nasty Scorpion
-This project is to build and program a robot with lego. The robot's main task is to clean the nuclear waste.
+# Survey-Test-System
+This project is to develop of a generic survey/test taking system written in Java. 
 
 ## Task
-* To clean the nuclear waste
-* To differentiate regular waste from nuclear waste
-* To carry the wastes to the right disposal area
+* To allow a survey/test to be entered, modified, stored, loaded, taken, and tabulated/graded.
+* To distinguish and perform based on different formats of survey/test questions: True/False, multiple choice, short answer, essay answer, matching, rank the choices.
+* To allow each test question to have some sort of correct answer for grading.
 * Avoid the fence and obstacles
+* To modify existing a survey/test
 
 ## Getting Started
 
-Please make sure that the robot is connected to your machine. You can compile and deploy the code through MINDSTORMS NXT 2.0 software.
-
-### Prerequisites
-
-Please make sure that the MINDSTORMS NXT 2.0 software is installed on your local machine. The software can be downloaded from here: https://www.lego.com/en-us/mindstorms/downloads/nxt-software-download 
-
-## Algorithm
-![ScreenShot](https://raw.github.com/JunhoAn0702/Nuclear-Waste-Disposal-Robot/master/Design/Algorithm.png)
+1. Open eclipse.
+2. Import the project into eclipse, and then run.
+3. a test.txt file is added for test purpose.
 
 ## Running the tests
 
-You can run tests by running each code in the "Components" folder. Each code performs each task described above. 
+You can run tests by loading the test.txt file.
 
-## Conclusion
-
-Won the 1st place in Drexel Engineering School compotition.
